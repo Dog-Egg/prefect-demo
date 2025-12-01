@@ -1,3 +1,9 @@
+# /// script
+# dependencies = [
+#     "nicely",
+# ]
+# ///
+
 import requests
 from prefect import flow
 
