@@ -27,7 +27,7 @@ deployments:
     description: 测试一下
     schedule: {}
     flow_name: test_request
-    entrypoint: null
+    entrypoint: demo.py:test_request
     parameters: {}
     work_pool:
       name: null
